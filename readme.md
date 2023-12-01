@@ -4,7 +4,7 @@
 This is a Fullstack Web App! Our project is a modern solution for efficiently managing orders and menus in a restaurant. It includes a user-facing web app for food ordering and a dashboard for shop owners to handle orders and menus seamlessly. The system is hosted on the Azure cloud.
 
 ## Features
-### Client-side Iterface:
+### Client-side Interface:
 - Intuitive interface for users to browse menus and place orders.
 - Seamless order tracking and status updates.
 - Secure authentication and authorization.
