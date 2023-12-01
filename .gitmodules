@@ -1,0 +1,9 @@
+[submodule "restaurant-api"]
+	path = restaurant-api
+	url = https://github.com/Thiwanka-Sandakalum/restaurant-api.git
+[submodule "resturant-client"]
+	path = resturant-client
+	url = https://github.com/Thiwanka-Sandakalum/resturant-client.git
+[submodule "restaurant-dashboard"]
+	path = restaurant-dashboard
+	url = https://github.com/Thiwanka-Sandakalum/restaurant-dashboard.git
