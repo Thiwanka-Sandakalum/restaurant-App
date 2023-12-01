@@ -4,15 +4,19 @@
 This is a Fullstack Web App! Our project is a modern solution for efficiently managing orders and menus in a restaurant. It includes a user-facing web app for food ordering and a dashboard for shop owners to handle orders and menus seamlessly. The system is hosted on the Azure cloud.
 
 ## Features
-### User-Facing Web App:
+### Client-side Iterface:
 - Intuitive interface for users to browse menus and place orders.
 - Seamless order tracking and status updates.
 - Secure authentication and authorization.
+
+[Explore User-Facing Web App](#user-facing-web-app)
 
 ### Dashboard for Shop Owners:
 - Centralized management of orders with detailed information.
 - Easy order processing and updating order statuses.
 - Intuitive menu management to handle dishes, prices, and availability.
+
+[Explore Dashboard](#dashboard)
 
 ## Tech Stack
 ### Backend
@@ -23,9 +27,7 @@ This is a Fullstack Web App! Our project is a modern solution for efficiently ma
 [![Sequelize](https://img.shields.io/badge/Sequelize-Latest-blue)](https://sequelize.org/)
 [![Winston](https://img.shields.io/badge/Winston-Latest-green)](https://github.com/winstonjs/winston)
 
-
 ### Frontend
 [![Angular](https://img.shields.io/badge/Angular-v16-red)](https://angular.io/)
 [![Angular Material](https://img.shields.io/badge/Angular%20Material-v12-yellow)](https://material.angular.io/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-v5-purple)](https://getbootstrap.com/)
-
